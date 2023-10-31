@@ -19,3 +19,4 @@ N/A
 - All links functional
 - Implemented tags (header, main, footer, nav, article, figure)
 - Alt tags attached to images
+- More semantically correct than starter code
